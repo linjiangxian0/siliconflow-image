@@ -2,7 +2,7 @@
   "identifier": "siliconflow-image",
   "api": [
     {
-      "url": "https://lobechat.siliconflow-image.230617.xyz/api/generate",
+      "url": "/api/generate",
       "name": "generateImage",
       "description": "使用SiliconFlow的图像生成API，根据文本提示生成图片",
       "parameters": {
