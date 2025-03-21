@@ -2,7 +2,7 @@
   "identifier": "siliconflow-image",
   "api": [
     {
-      "url": "https://siliconflow-image.390340.xyz/api/generate",
+      "url": "https://lobe-plugin-siliconflow-image.390340.xyz/api/generate",
       "name": "generateImage",
       "description": "使用SiliconFlow的图像生成API，根据文本提示生成图片",
       "parameters": {
